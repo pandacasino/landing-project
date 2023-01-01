@@ -590,7 +590,7 @@ img {
 
 .contacts {
   position: relative;
-  background-image: url('./img/contacts/contacts-bg.svg');
+  background-image: url(./img/contacts/contacts-bg.svg);
   background-size: cover;
 }
 
