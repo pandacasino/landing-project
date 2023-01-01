@@ -3,4 +3,4 @@
 * CSS3
 + JS
 
-  Can you view [Landing Project](pandacasino.github.io/landing-project/)
+  Can you view [Landing Project](https://pandacasino.github.io/landing-project/)
