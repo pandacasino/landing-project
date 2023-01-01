@@ -150,7 +150,7 @@ img {
   display: block;
   width: 24px;
   height: 19px;
-  background-image: url("./../../img/icons/mail.svg");
+  background-image: url('./img/icons/mail.svg');
   background-size: initial;
 }
 
@@ -197,7 +197,7 @@ img {
   height: 12px;
   background-size: initial;
   background-repeat: no-repeat;
-  background-image: url(./../../img/icons/play.svg);
+  background-image: url('./img/icons/play.svg');
 }
 .button--white:hover {
   background-color: #e6e6e6;
@@ -321,7 +321,7 @@ img {
   display: block;
   width: 222px;
   height: 203px;
-  background-image: url(./../../img/cta/oval-top-right.svg);
+  background-image: url('./img/cta/oval-top-right.svg');
   background-size: initial;
   background-repeat: no-repeat;
 }
@@ -333,7 +333,7 @@ img {
   display: block;
   width: 300px;
   height: 101px;
-  background-image: url(./../../img/cta/oval-bottom-left.svg);
+  background-image: url('./img/cta/oval-bottom-left.svg');
   background-size: initial;
   background-repeat: no-repeat;
 }
@@ -527,7 +527,7 @@ img {
 .testimonials__row::before {
   position: absolute;
   content: "";
-  background-image: url(./../../img/testimonials/design-element.svg);
+  background-image: url('./img/testimonials/design-element.svg');
   width: 80px;
   height: 80px;
   top: 0;
@@ -545,7 +545,7 @@ img {
 .card-testimonial::after {
   position: absolute;
   content: "";
-  background-image: url(./../../img/testimonials/play-btn.svg);
+  background-image: url('./img/testimonials/play-btn.svg');
   width: 50px;
   height: 50px;
   background-repeat: no-repeat;
@@ -590,7 +590,7 @@ img {
 
 .contacts {
   position: relative;
-  background-image: url('img/contacts/contacts-bg.svg');
+  background-image: url('./img/contacts/contacts-bg.svg');
   background-size: cover;
 }
 
@@ -622,7 +622,7 @@ img {
   display: block;
   width: 743px;
   height: 370px;
-  background-image: url("./../../img/contacts/contacts-oval.svg");
+  background-image: url('./img/contacts/contacts-oval.svg');
   background-size: initial;
   background-repeat: no-repeat;
   left: 43%;
