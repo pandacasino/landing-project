@@ -609,7 +609,7 @@ img {
   display: block;
   width: 478px;
   height: 547px;
-  background-image: url(landing-project/img/contacts/girl.png);
+  background-image: url('landing-project/img/contacts/girl.png');
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 9;
